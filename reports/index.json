@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-211037-2zlx",
+      "title": "Esdeath Muken",
+      "commanders": [
+        "Esdeath Muken"
+      ],
+      "guild": {
+        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+        "name": "The Ironclaw Dominion",
+        "tag": "Iron"
+      },
+      "dateStart": "2026-09-26T02:10:37.000Z",
+      "dateEnd": "2026-09-26T02:48:35.706Z",
+      "dateLabel": "25/9/2026, 21:10:37 - 25/9/2026, 21:48:35",
+      "url": "https://Kaszu778.github.io/REPORTE/?report=20260925-211037-2zlx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 41,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260925-211037-ckxa",
       "title": "Esdeath Muken",
       "commanders": [
