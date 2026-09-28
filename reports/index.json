@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-194247-7db3",
+      "title": "Esdeath Muken",
+      "commanders": [
+        "Esdeath Muken"
+      ],
+      "guild": {
+        "id": "350B22D0-4877-F111-BB16-02A062328AE3",
+        "name": "Femboy Bussy Inspector",
+        "tag": "FBI"
+      },
+      "dateStart": "2026-09-28T00:42:47.000Z",
+      "dateEnd": "2026-09-28T01:32:50.584Z",
+      "dateLabel": "27/9/2026, 19:42:47 - 27/9/2026, 20:32:50",
+      "url": "https://Kaszu778.github.io/REPORTE/?report=20260927-194247-7db3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260926-190644-4ydu",
       "title": "Esdeath Muken",
       "commanders": [
