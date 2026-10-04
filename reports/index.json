@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261003-202124-vwgy",
+      "title": "Esdeath Muken",
+      "commanders": [
+        "Esdeath Muken"
+      ],
+      "guild": {
+        "id": "3806E1C9-7F3A-E711-80D4-E4115BD76FFD",
+        "name": "G H O S T",
+        "tag": "Ghst"
+      },
+      "dateStart": "2026-10-04T01:21:24.000Z",
+      "dateEnd": "2026-10-04T02:08:49.737Z",
+      "dateLabel": "3/10/2026, 20:21:24 - 3/10/2026, 21:08:49",
+      "url": "https://Kaszu778.github.io/REPORTE/?report=20261003-202124-vwgy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260927-194247-u3vc",
       "title": "Esdeath Muken",
       "commanders": [
